@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
  
 ![alt text](https://github.com/El-Do-RaDo/first-flutter-app/blob/master/Screenshot_2020-06-11-14-30-21-014_com.example.myfirstflutterapp.jpg?raw=true)
 
-![alt text]()
+![alt text](https://github.com/El-Do-RaDo/first-flutter-app/blob/master/Screenshot_2020-06-11-14-30-26-519_com.example.myfirstflutterapp.jpg)
 
 ![alt text]()
  
