@@ -1,4 +1,4 @@
-# myfirstflutterapp
+# my first flutter app
 
 A new Flutter application.
 
@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+ Here are some sample screenshots of the application:
+ 
+ https://github.com/El-Do-RaDo/first-flutter-app/blob/master/Screenshot_2020-06-11-14-30-21-014_com.example.myfirstflutterapp.jpg?raw=true
+ 
+ 
+ 
