@@ -16,11 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
  Here are some sample screenshots of the application:
  
-![alt text](https://github.com/El-Do-RaDo/first-flutter-app/blob/master/Screenshot_2020-06-11-14-30-21-014_com.example.myfirstflutterapp.jpg?raw=true)
-
-![alt text](https://github.com/El-Do-RaDo/first-flutter-app/blob/master/Screenshot_2020-06-11-14-30-26-519_com.example.myfirstflutterapp.jpg)
-
-![alt text](https://github.com/El-Do-RaDo/first-flutter-app/blob/master/Screenshot_2020-06-11-14-30-28-862_com.example.myfirstflutterapp.jpg)
+<img src='https://github.com/El-Do-RaDo/first-flutter-app/blob/master/Screenshot_2020-06-11-14-30-21-014_com.example.myfirstflutterapp.jpg?raw=true' width='250' height='400'>             <img src='https://github.com/El-Do-RaDo/first-flutter-app/blob/master/Screenshot_2020-06-11-14-30-26-519_com.example.myfirstflutterapp.jpg' width='250' height='400'>              <img src='https://github.com/El-Do-RaDo/first-flutter-app/blob/master/Screenshot_2020-06-11-14-30-28-862_com.example.myfirstflutterapp.jpg' width='250' height='400'>
  
  
  
